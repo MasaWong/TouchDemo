@@ -1,0 +1,15 @@
+<me.chunyu.demo.DragEvent.DragViewGroup
+    android:id="@+id/touch_event_fl_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.chunyu.demo.TouchEvent.TouchEventActivity">
+
+    <View
+        android:id="@+id/touch_event_v_child"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"/>
+
+</me.chunyu.demo.DragEvent.DragViewGroup><!-- From: file:/Users/masawong/GitSpace/Demo/app/src/main/res/layout/activity_drag_event.xml -->

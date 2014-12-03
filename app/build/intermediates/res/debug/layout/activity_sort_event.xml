@@ -1,0 +1,54 @@
+<me.chunyu.demo.SortEvent.SortViewGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="me.chunyu.demo.SortEvent.SortEventActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="First"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="Second"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="Third"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="Fourth"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="Fifth"/>
+
+
+    <TextView
+        android:id="@+id/sort_event_tv_fourth"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/card_stroke"
+        android:gravity="center"
+        android:text="Sixth"/>
+
+</me.chunyu.demo.SortEvent.SortViewGroup>
+<!-- From: file:/Users/masawong/GitSpace/Demo/app/src/main/res/layout/activity_sort_event.xml -->
